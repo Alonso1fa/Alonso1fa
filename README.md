@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Alonso Alarcón
 
-<!--
-**Alonso1fa/Alonso1fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Civil Industrial (en proceso de titulación) orientado a análisis de datos e inteligencia de negocios.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- Interés en análisis, visualización y modelado de datos
+- Experiencia con Excel, SQL, Power BI y Python
+- Perfil junior enfocado en aprendizaje continuo y mejora de procesos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+**Lenguajes & Datos**
+- SQL (MySQL, SQL Server)
+- Python (pandas, numpy)
+
+**Visualización**
+- Power BI
+- Excel (Power Query, tablas dinámicas)
+
+**Otros**
+- Modelado de datos
+- Limpieza y transformación de datos
+- Visualización para toma de decisiones
+
+## 📫 Contacto
+- Email: alonso.alarcon.soto@gmail.com
+- LinkedIn: www.linkedin.com/in/alonso-alarcón-a0aa3b335
+- Portafolio: en desarrollo
